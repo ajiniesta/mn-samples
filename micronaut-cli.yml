@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: com.iniesta
+---
+testFramework: junit
+sourceLanguage: java
